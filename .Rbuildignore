@@ -9,4 +9,5 @@
 ^\.github$
 ^_pkgdown\.yml$
 ^pkgdown$
-Report.html
+^Report\.html$
+^Report_files$
